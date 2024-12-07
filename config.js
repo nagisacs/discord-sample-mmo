@@ -1,5 +1,5 @@
 module.exports = {
-  prefix: "!",
+  prefix: '!',
   admins: [],
-  token: "Your Token Here",
+  token: 'Your Token Here',
 };

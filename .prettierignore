@@ -1,0 +1,15 @@
+# node packages
+node_modules/
+
+# pnpm
+pnpm-lock.yaml
+
+# build putput
+/dist
+
+# not necessary to format
+LICENSE
+README.md
+
+# CI
+.gitlab-ci.yml

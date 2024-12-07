@@ -6,7 +6,7 @@ module.exports = {
     mp: 6,
   },
   channel: {
-    code: "apple",
+    code: 'apple',
     level: 1,
     hp: 60,
     mp: 6,
